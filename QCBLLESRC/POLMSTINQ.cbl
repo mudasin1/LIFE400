@@ -1,6 +1,6 @@
       *===============================================================*
       * PROGRAM:   POLMSTINQ                                         *
-      * SYSTEM:    LIFE400 - LINCOLN LIFE INSURANCE CO.             *
+      * SYSTEM:    LIFE400 - ACME LIFE INSURANCE CO.             *
       * AUTHOR:    T. WALSH                                          *
       * DATE:      1998-01-20                                        *
       * VERSION:   1.0                                               *

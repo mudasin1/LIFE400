@@ -1,6 +1,6 @@
       *===============================================================*
       * PROGRAM:   CLMMNT                                            *
-      * SYSTEM:    LIFE400 - LINCOLN LIFE INSURANCE CO.             *
+      * SYSTEM:    LIFE400 - ACME LIFE INSURANCE CO.             *
       * AUTHOR:    D. BRENNAN                                        *
       * DATE:      1997-11-10                                        *
       * VERSION:   1.2                                               *

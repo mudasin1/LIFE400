@@ -1,6 +1,6 @@
       *===============================================================*
       * PROGRAM:   MAINMENU                                          *
-      * SYSTEM:    LIFE400 - LINCOLN LIFE INSURANCE CO.             *
+      * SYSTEM:    LIFE400 - ACME LIFE INSURANCE CO.             *
       * AUTHOR:    R. KOWALSKI                                       *
       * DATE:      1997-09-12                                        *
       * VERSION:   1.2                                               *
